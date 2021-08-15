@@ -1,7 +1,8 @@
-### Hi there 👋
+### Oi eu sou Douglas Monteiro 👋
+
+- 🔭 atualmente trabalho com dev front end
 
 <!--
-**douglasmonteiro-dev/douglasmonteiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
