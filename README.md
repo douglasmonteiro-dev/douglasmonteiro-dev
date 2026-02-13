@@ -52,7 +52,7 @@ Abr 2023 — Atual
 → Ferramentas operacionais e cambiais  
 → Angular + Material  
 
-**IBM**  
+**IBM — Banco Votorantim**  
 2018 — 2019  
 → Aplicações bancárias front-end  
 → Angular, automação, testes  
