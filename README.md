@@ -1,111 +1,230 @@
-# 👋 Fala, eu sou o Douglas Monteiro
+# Douglas Monteiro
+
+### Technology Leader | Fintech | Platform Engineering | AI Systems | Cloud Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Monteiro-blue?logo=linkedin)](https://www.linkedin.com/in/dgsmonteiro)
-![Experience](https://img.shields.io/badge/Experience-10%2B%20anos-success)
-![Role](https://img.shields.io/badge/Role-Tech%20Lead-black)
-![Focus](https://img.shields.io/badge/Focus-Fintech%20%7C%20Platforms-informational)
-![Stack](https://img.shields.io/badge/Stack-JS%20Ecosystem-yellow)
+![Role](https://img.shields.io/badge/Role-Technology%20Leader-black)
+![Experience](https://img.shields.io/badge/Experience-15%2B%20Years-success)
+![Industry](https://img.shields.io/badge/Industry-Fintech%20%7C%20Banking-blue)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
+![Focus](https://img.shields.io/badge/Focus-Platforms%20%7C%20AI%20Systems-purple)
 
 ---
 
-## 🚀 Sobre mim
-Sou desenvolvedor e líder técnico apaixonado por tecnologia desde adolescente, quando comecei criando sites por curiosidade e acabei transformando isso na minha carreira.
+## Building technology that scales
 
-Hoje atuo como **Tech Lead na TecBan**, liderando times e soluções que impactam milhões de usuários, principalmente nas frentes:
+I'm a Brazilian Technology Leader with more than 15 years of experience designing, building and leading large-scale software platforms.
 
-- Open Finance
-- Aplicativo Banco24Horas
+Currently working as a Tech Lead at TecBan, one of the largest financial technology companies in Brazil, leading initiatives related to:
 
-Tenho mais de **10 anos de experiência** construindo aplicações web, APIs, plataformas financeiras e sistemas escaláveis.
+* Open Finance
+* Digital Banking Platforms
+* Mobile Applications
+* Cloud-Native Architectures
+* Platform Engineering
+* Engineering Leadership
 
----
-
-## 🧠 O que eu faço bem
-- liderar times técnicos
-- arquitetar sistemas complexos
-- resolver problemas difíceis
-- transformar ideias em produto
-- escalar aplicações
-
-Curto tecnologia que resolve problema real — não só código bonito.
+My work focuses on connecting technology, business strategy and execution to deliver scalable solutions used by millions of users.
 
 ---
 
-## 💼 Experiência
+## Core Expertise
 
-**TecBan — Tech Lead / Especialista Web**  
-Abr 2023 — Atual  
-→ Liderança técnica do app Banco24Horas  
-→ Backend Node + Express + DynamoDB  
-→ Mobile com Flutter  
-→ Portal administrativo Angular  
+### Engineering Leadership
 
-**Arctica → TecBan / Santander**  
-2021 — 2023  
-→ Open Banking  
-→ Times de IA e usuários finais  
-→ Angular, Vue, Node.js  
+* Technical Leadership
+* Team Development
+* Architecture Governance
+* Agile Delivery
+* Stakeholder Management
+* Product & Engineering Alignment
 
-**Resource IT — B3 e Safra**  
-2019 — 2021  
-→ Sistemas críticos financeiros  
-→ Ferramentas operacionais e cambiais  
-→ Angular + Material  
+### Software Architecture
 
-**IBM — Banco Votorantim**  
-2018 — 2019  
-→ Aplicações bancárias front-end  
-→ Angular, automação, testes  
+* Distributed Systems
+* Event-Driven Architectures
+* API Platforms
+* Microservices
+* Multi-Tenant SaaS
+* Domain-Driven Design
 
-**Eicon**  
-2017 — 2018  
-→ Sistemas de gestão pública  
+### Cloud & Infrastructure
 
-**Início da carreira**
-Suporte de TI corporativo (DHL) → onde aprendi infraestrutura, processos e operação real de sistemas.
+* AWS
+* Docker
+* Kubernetes
+* Terraform
+* CI/CD
+* Observability
 
----
+### Backend
 
-## 🛠 Stack principal
-**Front:** React • Angular • Vue • Next.js  
-**Back:** Node.js • Express • NestJS  
-**Cloud:** AWS  
-**Dados:** DynamoDB • SQL • Redis  
-**Arquitetura:** APIs • Microservices • Escalabilidade  
+* Node.js
+* TypeScript
+* Fastify
+* NestJS
+* Express
+* Python
 
----
+### Frontend & Mobile
 
-## 🎓 Formação
-- Pós em **IA & Ciência de Dados**
-- Bacharel em **Ciência da Computação**
+* Flutter
+* React
+* Next.js
+* Angular
+* Vue.js
 
----
+### Data & Messaging
 
-## 🌎 Idiomas
-Português 🇧🇷 nativo  
-Espanhol 🇪🇸 fluente  
-Inglês 🇺🇸 profissional  
+* PostgreSQL
+* DynamoDB
+* Redis
+* Kafka
+* BullMQ
+* S3
 
----
+### Artificial Intelligence
 
-## 📚 Publicação
-📝 *Saving Time — métodos matemáticos aplicados a filas de espera*
-
----
-
-## ⚡ Curiosidade
-Comecei programando por diversão.  
-Hoje lidero projetos que atendem milhões de pessoas.
+* LLM Applications
+* AI Agents
+* RAG Architectures
+* Workflow Automation
+* Multi-Agent Systems
 
 ---
 
-## 🤝 Bora trocar ideia?
-Se quiser falar sobre:
+## Professional Impact
 
-- arquitetura
-- fintech
-- sistemas escaláveis
-- liderança técnica
-- produto
+### TecBan
 
-Me chama 👉 **linkedin.com/in/dgsmonteiro**
+**Tech Lead**
+
+Leading engineering initiatives for products serving millions of users across Brazil.
+
+Key areas:
+
+* Banco24Horas Mobile Platform
+* Open Finance Ecosystem
+* Platform Modernization
+* Cloud Adoption
+* Engineering Excellence
+
+---
+
+### Previous Experience
+
+* Santander Projects
+* B3 (Brazilian Stock Exchange)
+* Safra Bank
+* Banco Votorantim
+* Public Sector Digital Transformation
+
+Throughout my career I have worked in highly regulated environments where reliability, scalability and security are critical.
+
+---
+
+## Selected Projects
+
+### Servio
+
+Service Operating System designed for service companies.
+
+Core capabilities:
+
+* CRM
+* Contracts
+* Service Operations
+* Financial Management
+* Workflow Automation
+* AI Assistants
+
+---
+
+### Cuida
+
+AI-powered care platform focused on elderly care and family support.
+
+Features:
+
+* Health Monitoring
+* Medication Management
+* Smart Alerts
+* Caregiver Collaboration
+* AI Assistance
+
+---
+
+### OpenClaw
+
+Multi-tenant autonomous AI workforce platform.
+
+Capabilities:
+
+* AI Agents
+* Team Orchestration
+* Workflow Automation
+* Mission Control
+* Cost Governance
+
+---
+
+### Financial Core
+
+Multi-tenant financial infrastructure platform.
+
+Features:
+
+* Billing
+* Wallets
+* Revenue Intelligence
+* Subscription Management
+* Multi-Company Operations
+
+---
+
+## Education
+
+### Postgraduate Degree
+
+Artificial Intelligence & Data Science
+
+### Bachelor's Degree
+
+Computer Science
+
+---
+
+## Languages
+
+🇧🇷 Portuguese — Native
+
+🇺🇸 English — Professional Working Proficiency
+
+🇪🇸 Spanish — Professional Working Proficiency
+
+---
+
+## Areas of Interest
+
+* Engineering Leadership
+* Platform Engineering
+* Fintech
+* Artificial Intelligence
+* Cloud Architecture
+* SaaS Platforms
+* Product Development
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing:
+
+* Technology Leadership
+* Engineering Management
+* Platform Architecture
+* AI Systems
+* Fintech Innovation
+
+LinkedIn:
+linkedin.com/in/dgsmonteiro
