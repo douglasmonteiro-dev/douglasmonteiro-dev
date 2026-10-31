@@ -1,230 +1,52 @@
 # Douglas Monteiro
 
-### Technology Leader | Fintech | Platform Engineering | AI Systems | Cloud Architecture
+### Technical Leader | Financial Platforms | Open Banking & Open Finance | Cloud Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Monteiro-blue?logo=linkedin)](https://www.linkedin.com/in/dgsmonteiro)
-![Role](https://img.shields.io/badge/Role-Technology%20Leader-black)
-![Experience](https://img.shields.io/badge/Experience-15%2B%20Years-success)
-![Industry](https://img.shields.io/badge/Industry-Fintech%20%7C%20Banking-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Monteiro-0A66C2?logo=linkedin)](https://www.linkedin.com/in/dgsmonteiro)
+![Role](https://img.shields.io/badge/Role-Technical%20Leader-black)
+![Domain](https://img.shields.io/badge/Domain-Financial%20Platforms-blue)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
-![Focus](https://img.shields.io/badge/Focus-Platforms%20%7C%20AI%20Systems-purple)
 
----
+## About
 
-## Building technology that scales
+Technical leader and software engineer with 10+ years of experience across software development and IT, including technical leadership for financial platforms and hands-on work across mobile, backend, web and cloud engineering.
 
-I'm a Brazilian Technology Leader with more than 15 years of experience designing, building and leading large-scale software platforms.
+## Current role
 
-Currently working as a Tech Lead at TecBan, one of the largest financial technology companies in Brazil, leading initiatives related to:
+At TecBan, I lead the technical execution of the team responsible for developing and evolving the Banco24Horas mobile application.
 
-* Open Finance
-* Digital Banking Platforms
-* Mobile Applications
-* Cloud-Native Architectures
-* Platform Engineering
-* Engineering Leadership
+My current scope includes:
 
-My work focuses on connecting technology, business strategy and execution to deliver scalable solutions used by millions of users.
+- Flutter mobile development
+- Node.js and Express APIs
+- DynamoDB and AWS
+- Angular administrative applications
+- Technical decisions and engineering delivery across mobile, backend, cloud and web
 
----
+## Financial platforms experience
 
-## Core Expertise
+My professional background includes:
 
-### Engineering Leadership
+- Banco24Horas and Open Banking at TecBan
+- End Users and Artificial Intelligence projects at Santander
+- Operational contingency tools for B3
+- Foreign-exchange and international-branch solutions for Banco Safra
+- Banking applications at IBM
 
-* Technical Leadership
-* Team Development
-* Architecture Governance
-* Agile Delivery
-* Stakeholder Management
-* Product & Engineering Alignment
+## Core technologies
 
-### Software Architecture
+`AWS` · `Node.js` · `Express.js` · `DynamoDB` · `Flutter` · `Angular` · `JavaScript` · `React` · `Vue.js`
 
-* Distributed Systems
-* Event-Driven Architectures
-* API Platforms
-* Microservices
-* Multi-Tenant SaaS
-* Domain-Driven Design
+## Education and certification
 
-### Cloud & Infrastructure
+- Postgraduate Specialization in Artificial Intelligence
+- Bachelor’s degree in Computer Science and Information Technology
+- Cloud Optimization on AWS and Intel Platforms
 
-* AWS
-* Docker
-* Kubernetes
-* Terraform
-* CI/CD
-* Observability
+## Career interests
 
-### Backend
+Open to international opportunities as a Staff Engineer, Principal Engineer or Engineering Leader, focused on fintech, Open Finance, financial platforms and cloud engineering.
 
-* Node.js
-* TypeScript
-* Fastify
-* NestJS
-* Express
-* Python
+## Contact
 
-### Frontend & Mobile
-
-* Flutter
-* React
-* Next.js
-* Angular
-* Vue.js
-
-### Data & Messaging
-
-* PostgreSQL
-* DynamoDB
-* Redis
-* Kafka
-* BullMQ
-* S3
-
-### Artificial Intelligence
-
-* LLM Applications
-* AI Agents
-* RAG Architectures
-* Workflow Automation
-* Multi-Agent Systems
-
----
-
-## Professional Impact
-
-### TecBan
-
-**Tech Lead**
-
-Leading engineering initiatives for products serving millions of users across Brazil.
-
-Key areas:
-
-* Banco24Horas Mobile Platform
-* Open Finance Ecosystem
-* Platform Modernization
-* Cloud Adoption
-* Engineering Excellence
-
----
-
-### Previous Experience
-
-* Santander Projects
-* B3 (Brazilian Stock Exchange)
-* Safra Bank
-* Banco Votorantim
-* Public Sector Digital Transformation
-
-Throughout my career I have worked in highly regulated environments where reliability, scalability and security are critical.
-
----
-
-## Selected Projects
-
-### Servio
-
-Service Operating System designed for service companies.
-
-Core capabilities:
-
-* CRM
-* Contracts
-* Service Operations
-* Financial Management
-* Workflow Automation
-* AI Assistants
-
----
-
-### Cuida
-
-AI-powered care platform focused on elderly care and family support.
-
-Features:
-
-* Health Monitoring
-* Medication Management
-* Smart Alerts
-* Caregiver Collaboration
-* AI Assistance
-
----
-
-### OpenClaw
-
-Multi-tenant autonomous AI workforce platform.
-
-Capabilities:
-
-* AI Agents
-* Team Orchestration
-* Workflow Automation
-* Mission Control
-* Cost Governance
-
----
-
-### Financial Core
-
-Multi-tenant financial infrastructure platform.
-
-Features:
-
-* Billing
-* Wallets
-* Revenue Intelligence
-* Subscription Management
-* Multi-Company Operations
-
----
-
-## Education
-
-### Postgraduate Degree
-
-Artificial Intelligence & Data Science
-
-### Bachelor's Degree
-
-Computer Science
-
----
-
-## Languages
-
-🇧🇷 Portuguese — Native
-
-🇺🇸 English — Professional Working Proficiency
-
-🇪🇸 Spanish — Professional Working Proficiency
-
----
-
-## Areas of Interest
-
-* Engineering Leadership
-* Platform Engineering
-* Fintech
-* Artificial Intelligence
-* Cloud Architecture
-* SaaS Platforms
-* Product Development
-
----
-
-## Let's Connect
-
-I'm always interested in discussing:
-
-* Technology Leadership
-* Engineering Management
-* Platform Architecture
-* AI Systems
-* Fintech Innovation
-
-LinkedIn:
-linkedin.com/in/dgsmonteiro
+[LinkedIn — Douglas Monteiro](https://www.linkedin.com/in/dgsmonteiro)
